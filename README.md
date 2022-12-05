@@ -1,2 +1,4 @@
 # Gesture-Recognition-Algorithm-using-IMU-Sensor
-This project uses IMU sensor data fusion with Machine Learning to implement a gesture recognition algorithm.
+This project uses IMU sensor (MPU9250) data fusion with Machine Learning to implement a gesture recognition algorithm.
+The codes attached are based on the Python script and C script.
+A project report is also attached which contains a brief overview of the project and results.
